@@ -36,4 +36,4 @@ The following video provides a visual example of how to use the Translate featur
 
 The following video provides a visual example of how to perform these steps.
 
-{% embed url="https://drive.google.com/file/d/1J0mi-SUwdo9mGnSm4-cs7rIxnqm3TgUR/view?usp=sharing" %}
+{% embed url="https://www.youtube.com/watch?v=HZG5ywDrJvM" %}
