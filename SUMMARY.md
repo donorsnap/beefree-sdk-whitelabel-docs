@@ -60,6 +60,7 @@
 * [Row vs. Content Block Selection](structure-content/row-vs.-content-block-selection.md)
 * [Row Properties](structure-content/row-properties.md)
 * [Column Management](structure-content/column-management.md)
+* [Working With Custom Attributes](structure-content/working-with-custom-attributes.md)
 
 ## Design for any Language
 
