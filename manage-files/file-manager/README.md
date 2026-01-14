@@ -36,10 +36,10 @@ You can access the File Manager when you are:
 #### Uploading Files
 
 * Drag-and-Drop: Simply drag files from your computer and drop them into the designated upload area.
+* Upload or Import Button: If you can't drag and drop, an 'Upload' or 'Import' button is also available.
+* The default maximum file size for uploads is 20MB
 
 <figure><img src="https://lh7-eu.googleusercontent.com/LTpzkqXaITd8z7176iwAlIpwiw-0P8n6go17Osll2XkOT8FPizdtQ9yYwcYzATHC7Ii5x5mX3tIKxAjz97W8A6zdngKBpccG1kLuwLonckefInMfy5IaSZJj18e8k9BOIZdE9hBzxrQnCGjHeU9Co6Q" alt=""><figcaption></figcaption></figure>
-
-* Upload or Import Button: If you can't drag and drop, an 'Upload' or 'Import' button is also available.
 
 #### Importing from Other Platforms
 
@@ -67,9 +67,9 @@ Create a custom folder hierarchy using various permissible characters, such as l
 
 <figure><img src="https://lh7-eu.googleusercontent.com/3Dvb538GOsfmyrODVkAYHDhbWN2Qb2n_5VY0m_yrA_SHWV9H29_qT_5oe_IL5LJnjWWEiNYrSakovWyEkYEIz5UzoOHk7LqXHJvuGxEHH9IAmZ96w-g1tZ1OiwOKV08E-9mLzfZCIXqcGfSskAcCY_k" alt=""><figcaption></figcaption></figure>
 
-#### Limitations
+#### Harmful Content Blocking
 
-* File Types: Prohibited file extensions include .js, .cjs, .mjs, .php, .phtml, .php3, .php4, .php5, .php7, .phps, .php-s, .pht, .phar, .HTML, .zip, .rar.
-* File Size: The default maximum file size for uploads is 20MB, although this limit may vary.
+The system prevents harmful uploads by enforcing
 
-File Transfers: Files cannot be moved between folders, only deleted.
+* Automatic blocking for all users of potentially dangerous file extensions such as exe, msi, bat, iso, jar, apk, SVGs containing JavaScript, HTML with redirects and more
+* Antivirus scanning which targets malicious files
