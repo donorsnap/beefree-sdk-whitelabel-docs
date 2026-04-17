@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # Forms
 
 ## Setting Up Your Form
@@ -36,8 +40,7 @@ Here, you can add, edit, or rearrange up to ten types of form fields, such as:
 * Phone
 * Text
 * Long Text
-* URL\
-
+* URL\\
 
 <figure><img src="https://lh7-eu.googleusercontent.com/4QhZKgtCVzuff95uBcg0wvijxrBHXnD_1tWH2yDtJi-Z5iqHvavY_rR4TAHzW5j2FYdZefX67k2KnfgBwNUAjeGTKO_gDnsopbYRbQ33e4t38_pDcNU_N0SVWvKCn9vAnZvpyBAmtEA-DprtHTj05PQ" alt="" width="563"><figcaption></figcaption></figure>
 
@@ -75,7 +78,7 @@ This field lets you style your form's submit button, offering the same formattin
 This section outlines and describes the accessibility keys currently available for navigating the Form content block. In this section, you'll learn about which keys to use to set your focus, customize properties, exit your design, and save your changes.
 
 {% hint style="warning" %}
-We are still working on developing our application's accessibility, and you may notice that some actions aren't available yet. Additional accessibility features are coming soon.&#x20;
+We are still working on developing our application's accessibility, and you may notice that some actions aren't available yet. Additional accessibility features are coming soon.
 {% endhint %}
 
 ### **Setting Your Focus**
@@ -89,7 +92,7 @@ Take the following steps to set your focus:
 
 Take the following steps to customize your properties:
 
-1. **Navigate to Form Settings:** With the form block activated, use `Tab` to move through the sidebar settings where you can adjust form width, alignment, font settings, and more.  Use Shift-`Tab` to navigate these settings in reverse.
+1. **Navigate to Form Settings:** With the form block activated, use `Tab` to move through the sidebar settings where you can adjust form width, alignment, font settings, and more. Use Shift-`Tab` to navigate these settings in reverse.
 2. **Manage Form Fields:** The sidebar offers options to manage fields where you can add or edit various field types like email, number, dropdown, and text. Each field can be set as required or read-only, providing flexibility in how information is collected. Note that rearranging fields is not supported in accessibility mode.
 3. **Customize Field Appearance:** Customize each form field's appearance by adjusting label positions, setting label widths, and formatting text. You can modify the form's submit button, including its text and style, to match your design's aesthetics.
 

@@ -1,5 +1,6 @@
 ---
 description: Learn more about importing your existing HTML designs into the Email Builder.
+hidden: true
 ---
 
 # HTML Importer
@@ -11,7 +12,7 @@ The HTML Importer allows you to transform your existing HTML email templates int
 With the HTML Importer, you no longer need to manually recreate your email designs from scratch. Instead, simply import your pre-built HTML, and the importer will convert it into a format compatible with the application's Email Builder. This supports a faster, more efficient workflow for editing and updating existing email content in the no-code builder.
 
 {% hint style="info" %}
-**Note:** The HTML Importer is designed to convert the **majority** of HTML into a format compatible with the Email Builder. You may notice that a small percentage of your design may not perfectly match your original design after importing HTML into the Email Builder. These scenarios require light manual editing in the no-code Email Builder to complete your design.  &#x20;
+**Note:** The HTML Importer is designed to convert the **majority** of HTML into a format compatible with the Email Builder. You may notice that a small percentage of your design may not perfectly match your original design after importing HTML into the Email Builder. These scenarios require light manual editing in the no-code Email Builder to complete your design.
 {% endhint %}
 
 ## How to Use
@@ -56,7 +57,7 @@ Consider the following when using the HTML Importer:
 * **Migration vs. Perfect Reproduction:** The importer is designed to **migrate** your HTML into a visually editable format—not to pixel-perfectly replicate the original. Some design adjustments may be needed after importing to achieve the desired look. However, this is still significantly faster than starting from scratch.
 * **Consistency and Predictability:** Every time you use the importer with the same HTML file, the result will be the same.
 * **Security and Data Usage:** Imported templates are **not stored** by the importer service. They are processed in real-time and returned to the builder for editing. Your content remains your own.
-*   **Supported Formats:** The importer works with plain HTML only. Other email formats like `.eml` are not supported directly. If needed, convert these to valid HTML before importing.&#x20;
+*   **Supported Formats:** The importer works with plain HTML only. Other email formats like `.eml` are not supported directly. If needed, convert these to valid HTML before importing.
 
     **Note:** Images are **not** uploaded or re-hosted. They continue to reference the original URL provided in the HTML.
 * **Dynamic Content and Merge Tags:** For best results, add dynamic content and merge tags within the Email Builder after the import.
